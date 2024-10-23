@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/davidgomari/davidgomari/blob/main/silencer-Wiki-PC.png"/>
+
 <h1 align="center">Hi 👋, I'm David Gomari</h1>
 <p>- 🌱 Currently AI master student at K. N. Toosi University of Technology</p>
 <p>- 👯 <b>Interests:</b> Computer Vision, Image Processing, Machine Learning, Deep Learning</p>
